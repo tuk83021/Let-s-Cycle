@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         myButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                tv.setText("You have clicked the button");
+                tv.setText("Welcome to Let's Recycle!!");
             }
         });
     }
